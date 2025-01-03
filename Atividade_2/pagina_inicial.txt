@@ -1,0 +1,15 @@
+
+            <html>
+              <head><title>Formulário</title></head>
+              <body>
+                <h1>Página Inicial</h1>
+                <form method="POST" action="/">
+                  <label>Nome:</label>
+                  <input type="text" name="nome"><br><br>
+                  <label>E-mail:</label>
+                  <input type="email" name="email"><br><br>
+                  <input type="submit" value="Enviar">
+                </form>
+              </body>
+            </html>
+            
