@@ -6,7 +6,7 @@
 - [Recursos](#recursos)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
-- [Uso](#uso)
+- [Dicas](#Dicas)
   - [Cliente Network Time Protocol (NTP)](#cliente-network-time-protocol-ntp)
   - [Algoritmo de Berkeley](#algoritmo-de-berkeley)
     - [Servidor Berkeley](#servidor-berkeley)
@@ -50,13 +50,16 @@ Este repositório fornece implementações em Python para o cliente NTP e para o
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/seuusuario/protocolos-sincronizacao-tempo.git
-   cd protocolos-sincronizacao-tempo
+   git clone https://github.com/guimadd/appNet_2_24.git
+   cd AV2
 
 
 
-# Trabalho
-# Comando para saber minha posição geográfica:
-# curl ipinfo.io
-# Comando para saber a hora local:
-# date
+##Dicas
+Comando para saber minha posição geográfica:
+ ```bash
+curl ipinfo.io
+ ```
+Comando para saber a hora local:
+ ```
+date
