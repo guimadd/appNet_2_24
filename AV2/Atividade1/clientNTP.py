@@ -11,7 +11,7 @@ def ntp_client(host="pool.ntp.org", port=123):
 
     pacote = b'\x1b' + 47 * b'\0'
     
-    try:
+    try: 
         tempoEnviado = time.time()
         cliente.sendto(pacote, servidor)
 
