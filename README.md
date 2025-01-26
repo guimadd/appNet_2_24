@@ -7,14 +7,6 @@
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Dicas](#Dicas)
-  - [Cliente Network Time Protocol (NTP)](#cliente-network-time-protocol-ntp)
-  - [Algoritmo de Berkeley](#algoritmo-de-berkeley)
-    - [Servidor Berkeley](#servidor-berkeley)
-    - [Cliente Berkeley](#cliente-berkeley)
-- [Exemplos](#exemplos)
-- [Resultados e Demonstrações](#resultados-e-demonstrações)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Introdução
 
